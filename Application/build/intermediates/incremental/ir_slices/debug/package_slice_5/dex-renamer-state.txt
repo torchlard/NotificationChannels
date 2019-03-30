@@ -1,0 +1,4 @@
+#Sat Mar 30 15:15:37 HKT 2019
+base.0=/home/lkit/AndroidStudioProjects/NotificationChannels/Application/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
